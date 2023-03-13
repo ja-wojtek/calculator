@@ -22,6 +22,8 @@ body {
   width: 300px;
   height: 450px;
   border-radius: 8px;
+  border: solid 1px grey;
+  box-shadow: 10px 10px 10px gray;
 }
 
 .history {
@@ -55,4 +57,12 @@ body {
 
 .btn:hover {
   background-color: darkgray;
+}
+
+.equals {
+  background-color: lightgreen;
+}
+
+.equals:hover {
+  background-color: green;
 }
